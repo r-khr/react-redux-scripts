@@ -1,4 +1,4 @@
-# react-scripts
+# react-redux-scripts based on react-scripts for create-react-app
 
 This package includes scripts and configuration used by [Create React App](https://github.com/facebookincubator/create-react-app).  
 Please refer to its documentation:
